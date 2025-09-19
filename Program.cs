@@ -16,7 +16,7 @@ using System;
             Console.WriteLine("Digite o segundo número: ");
             double num2 = Convert.ToDouble(Console.ReadLine());
 
-            Console.WriteLine("Escolha a operação: ");
+            Console.WriteLine("Escolha a operação desejada: ");
             Console.WriteLine("1 - Adição (+)");
             Console.WriteLine("2 - Subtração (-)");
             Console.WriteLine("3 - Multiplicação (*)");
