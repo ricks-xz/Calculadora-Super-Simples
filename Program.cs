@@ -51,7 +51,7 @@ using System;
                 }
                 else
                 {
-                    Console.WriteLine("\nX Erro: Divisão por zero não é permitida. X");
+                    Console.WriteLine("\nX-- Erro: Divisão por zero não é permitida. --X");
                 }
             }
 
